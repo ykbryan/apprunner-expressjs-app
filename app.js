@@ -3,7 +3,7 @@ const app = express()
 const port = 8080
 
 app.get('/', (req, res) => {
-  res.send('Hello to AWS AppRunner!!!')
+  res.send('Hello to AWS AppRunner!')
 })
 
 app.listen(port, () => {
