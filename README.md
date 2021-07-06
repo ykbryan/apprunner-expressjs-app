@@ -38,3 +38,8 @@ run:
 ## Go to your AWS Console
 
 [...]
+
+
+## Others
+
+https://docs.aws.amazon.com/proton/latest/adminguide/ag-setting-up-iam.html
